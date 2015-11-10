@@ -1,2 +1,3 @@
-name "git"
-version "0.1.0"
+package "git"
+
+log "Well, that was too easy"
